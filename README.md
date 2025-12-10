@@ -15,4 +15,6 @@ Building upon these foundational elements, we apply our understanding to practic
 *   The significant difference in model performance and overfitting behavior between Fashion-MNIST and EMNIST Digits underscores the critical role of dataset complexity in model training and generalization. Simple CNN architectures can excel on less complex, distinct datasets, but more challenging datasets require robust regularization and potentially more sophisticated architectures to prevent overfitting.
 *   For the Fashion-MNIST task, future steps should focus on enhancing regularization techniques (e.g., increased dropout, L2 regularization, data augmentation) and potentially refining the CNN architecture or hyperparameters (e.g., learning rate scheduling) to improve generalization and mitigate overfitting, aiming to bridge the gap between training and validation performance.
 
-## 6. Credits * Author: Azami Hassani Adnane. * Supervisor: Prof. Masrour Tawfik.
+## 6. Credits 
+* Author: Azami Hassani Adnane. 
+* Supervisor: Prof. Masrour Tawfik.
